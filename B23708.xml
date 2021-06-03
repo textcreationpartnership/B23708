@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from Limerick, giving an account of the succesful victory obtain'd over the Irish rebels, K. William being in the heat of the action. Also the number of what officers and soldiers were kill'd and taken prisoners on both sides. Printed according to order, September 6th. 1690.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23708</idno><idno type="EEBO-CITATION">99890248</idno>
+  <idno type="VID">187643</idno>
+  <idno type="EEBO-PROQUEST">2240903476</idno>
+  
+            <idno type="STC">Wing G1725</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.23[82]</idno>
+            <idno type="STC">ESTC R36566</idno>
+            <idno type="PROQUEST">ocm99890248</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890248e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187643)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:2[79])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from Limerick, giving an account of the succesful victory obtain'd over the Irish rebels, K. William being in the heat of the action. Also the number of what officers and soldiers were kill'd and taken prisoners on both sides. Printed according to order, September 6th. 1690.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Moore.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+               <term type="geographic_name">Limerick (Limerick, Ireland) --  History --  Siege, 1690 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb facs="tcp:187643:1"/>
+            <pb facs="tcp:187643:1"/>
+            <head>Great News from LIMERICK, Giving an ACCOUNT OF The succesful Victory Obtain'd over <hi>The Irish Rebels.</hi> K. <hi>William</hi> being in the heat of the Action.</head>
+            <head type="sub">Also the number of what Officers and Soldiers were kill'd and taken Pri<g ref="char:EOLhyphen"/>soners on both sides.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Printed according to Order,</p>
+                        <closer>
+                           <dateline>
+                              <date>September 6th. 1690.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LAst Nights mistake of our Men occasioned by Relieving the Tren<g ref="char:EOLhyphen"/>ches in the dark, caused new measures, and Orders were given to Relieve them at 4 in the Afternoon, being Tuesday the 19th, which was accordingly done by Count <hi>Solmes,</hi> Count <hi>Nassaw,</hi> and Sir <hi>John Hanmore,</hi> who it was thought would have stormed the Fort but did not this day the Cannon on both sides fired very briskly, we dismounted 3 of their Guns, but all Night both sides were quiet, we prepared a Battery for Six 24 pounders, which were drawn all but one and planted within a Carbine Shot of the Wall.</p>
+            <p>
+               <hi>Wednesday</hi> the 20th. This Morning Early we played on the Fort with 2 Batteries, and by 3 in the Afternoon had tumbled down a good part thereof; His Majesty after Dinner went to a place near the Battery, and on a Signal of 3 Guns, our Granadiers being ready, each having, Gra<g ref="char:EOLhyphen"/>nadoes, Storm'd the Fort, and in less than half an hour were Masters of it, putting all to the Sword they found therin, being 150. except the Officer one Captain <hi>Barret,</hi> who was brought to the Guard by his Ma<g ref="char:EOLhyphen"/>jesties Order: The Enemy made a brisk Salley with Horse, they expect<g ref="char:EOLhyphen"/>ing to beat us out of our new gain'd Ground, but our Men being prepa<g ref="char:EOLhyphen"/>red to receive them sent them in again quickly with great loss, for just as they Sallied, Major General <hi>Kirk</hi> relieved our Trenches, and those that were on before, joyned him, and gave them so warm a Wel<g ref="char:EOLhyphen"/>come
+<pb facs="tcp:187643:2"/> being seconded by a Detach'd Body of 600 Horse, and a Peal or two from our Ordinance, that they ran in again. We had some Officers killed and wounded, Capt. <hi>Lucy</hi> of the Lord <hi>Oxfords</hi> Regiment Killed; Col. <hi>Belliasile</hi> (formerly Lieutenant to <hi>Callimote</hi>) Wounded; and about 100 private Soldiers Killed and Wounded; But the Enemy had at least 500 Slain, and the Wounded we cannot learn. Capt. <hi>Needham</hi> of Lord <hi>Meathes</hi> Regiment of Granadiers (who behaved himself to admiration, as indeed did all our Officers and Soldiers) was Killed coming fromt he Trenches after they were relieved.</p>
+            <p>This morning between 3 and 4, being <hi>Thursday</hi> the 21th, the Enemy made a brisk Sally, and <hi>Kirk</hi> (whose Post they Attacked) let them come up to his Trenches, and then gave them such a welcome with his small Shot, and seconded by our Cannon, that in less than a quarter of an hour they ran in again with a very considerable loss. This day the Enemy Fired upon us in the Fort we had gained, from a Roundal and Square To<g ref="char:EOLhyphen"/>wer which over-looked it, and fired with small Rubonetts, which galled our Men much, so that this day we could do little but shelter our selves with Fachines and other blinds, till our Works could be made to secure us better, and in making a Battery near our Fort, which we compleated, and planted 4 Guns carrying 24 pounders: this Night the Enemy did not Disturb us.</p>
+            <p>
+               <hi>Friday</hi> the 22d. About 5 this Morning we battered the Roundal with our 4 Guns, and with that success, that about 4 this Afternoon we brought it down, which covered another small Fort the Enemy had; we have since been battering the square Tower which covers their Spurr be<g ref="char:EOLhyphen"/>fore the Gate, in which we have made a considerable Breach. This day came up our great Guns from <hi>Carrick</hi> and some Mortars, and are carried down to the Battery, so that I doubt not but to Morrow the Spurr Tow<g ref="char:EOLhyphen"/>er will like wise fall, and then we shall storm their Counterscarpe, which is well Pallisaded, they having left nothing unatempted to strengthen the Town, yet nothing can stand against us. This Evening his Majesty <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nt a Drum into the Town with Offers of mercy, or else to expect nothing but Fire and Sword. His Majesty never had his health better, to whom <hi>God of his mercy continue it.</hi>
+            </p>
+            <p>Here has been one <hi>Crosby</hi> seized for having Letters sent to him by Post, which were opened at the Post Office here, and found to be of ill Conse<g ref="char:EOLhyphen"/>quence; he was last Night before the Lords Commissions of the Great-Seal.</p>
+            <p>The Almighty God has blest us as yet with fair Weather for our Camp, and I hope will continue his Mercy.</p>
+            <p>The <hi>Irish</hi> do commit great Barbarities in the West: the Papists here were in great Consternation for fear of being generally Plundered by the Soldiers, but there is a Proclamation out against it, which has quieted their minds till the next time.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Moore.</hi> 1690.</p>
+            <pb facs="tcp:187643:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
